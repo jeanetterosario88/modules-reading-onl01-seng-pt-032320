@@ -8,7 +8,7 @@ require_relative './fancy_dance.rb'
       
         attr_accessor :name
  
-  def initialize(name)
-    @name = name
-  end
-    end
+        def initialize(name)
+          @name = name
+        end
+        
